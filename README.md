@@ -1,4 +1,8 @@
                               Social media app
+# To run application
+
+1. Make sure you are using latest version of node and npm
+2. Do npm i --force
 
 # Technologies Used:-
 
